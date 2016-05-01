@@ -25,6 +25,7 @@ Button pdot=new Button(".");//button for Dot
 Button pcl=new Button("C");//button clear for all
 Button plus=new Button("+");
 Button miuns=new Button("-");
+
 Button multi=new Button("*");
 Button div=new Button("/");
 Button prce=new Button("%");
